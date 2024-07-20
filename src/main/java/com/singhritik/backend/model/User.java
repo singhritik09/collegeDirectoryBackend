@@ -82,9 +82,3 @@ public class User {
         this.phone = phone;
     }
 }
-
-enum ROLE {
-    STUDENT,
-    FACULTY,
-    ADMINISTRATOR
-}
